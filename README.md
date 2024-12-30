@@ -41,8 +41,7 @@
   <a href="https://www.instagram.com/ayon__x/" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" />
   </a>
-<a href="https://x.com/AyonDilshan?t=CFfaCVZS8f_wNmEdAS5Uwg&s=09" target="blank">
-  <img src="https://th.bing.com/th?id=ODLS.3dba904e-a174-434f-adc2-d8fff4f41d9c&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="ayondilshan" height="50" width="50" />
+
 </a>
 
 </p>
