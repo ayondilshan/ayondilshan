@@ -27,24 +27,9 @@
 </table>
 
 ---
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://youtube.com/@worldofayo?si=nVOK1YA6PgtoYALo" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ayondilshan" height="50" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayondilshanlk/" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ayondilshan" height="50" width="50" />
-  </a>
-  <a href="https://stackoverflow.com/users/28985942/ayon-dilshan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayondilshan" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/ayon__x/" target="blank">
-    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" />
-  </a>
 
-</a>
 
-</p>
+
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -68,15 +53,20 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://youtube.com/@worldofayo?si=nVOK1YA6PgtoYALo" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ayondilshan" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/ayondilshanlk/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ayondilshan" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/28985942/ayon-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayondilshan" height="50" width="50" /></a>
+  <a href="https://youtube.com/@worldofayo?si=nVOK1YA6PgtoYALo" target="blank">
+    <img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ayondilshan" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayondilshanlk/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ayondilshan" height="50" width="50" />
+  </a>
+  <a href="https://stackoverflow.com/users/28985942/ayon-dilshan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayondilshan" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/ayon__x/" target="blank">
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" />
+  </a>
 
-<a href="https://www.instagram.com/ayon__x/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" /> </a>
-
-
-
-</p>
+</a>
 
 ---
 
