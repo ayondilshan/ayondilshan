@@ -57,8 +57,9 @@
 <a href="https://www.instagram.com/ayon__x/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" /> </a>
 
 <a href="https://x.com/AyonDilshan?t=CFfaCVZS8f_wNmEdAS5Uwg&s=09" target="_blank">
-    <img src="https://th.bing.com/th?q=Twitter+X+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=LK&setlang=en&adlt=moderate&t=1&mw=247"  alt="ayondilshan" height="50" width="50" />
-  </a>
+  <img src="https://th.bing.com/th?q=Twitter+X+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=LK&setlang=en&adlt=moderate&t=1&mw=247" alt="ayondilshan" height="50" width="50" />
+</a>
+
 </p>
 
 ---
