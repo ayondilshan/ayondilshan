@@ -7,7 +7,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 
 
 - 🧑‍🎓 I’m an Learn at **Imbs Green Campus**
 
@@ -55,9 +54,10 @@
 <a href="https://www.linkedin.com/in/ayondilshanlk/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ayondilshan" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/28985942/ayon-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayondilshan" height="50" width="50" /></a>
 
-<a href="https://www.instagram.com/ayon__x/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.instagram.com/ayon__x/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" /> </a>
+
 <a href="https://x.com/AyonDilshan?t=CFfaCVZS8f_wNmEdAS5Uwg&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
+    <img src="https://th.bing.com/th?q=Twitter+X+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=LK&setlang=en&adlt=moderate&t=1&mw=247"  alt="ayondilshan" height="50" width="50" />
   </a>
 </p>
 
