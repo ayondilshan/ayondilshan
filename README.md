@@ -1,7 +1,7 @@
   <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm G.H Ayon Dilshan Amarasinghe </h1>
 <h3 align="center">IT Student | Learning to Code, Creating the Future</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayondilshan&label=Profile%20views&color=0e75b6&style=flat" alt="ayondilshan" /> </p>
 
 <table align="center">
 <tr border="none">
