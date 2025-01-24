@@ -62,7 +62,7 @@
   <a href="https://stackoverflow.com/users/28985942/ayon-dilshan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayondilshan" height="50" width="50" />
   </a>
-  <a href="https://www.instagram.com/ayon__x/" target="blank">
+  <a href="https://www.instagram.com/ayon_dilshan/" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ayondilshan" height="50" width="50" />
   </a>
 
