@@ -38,7 +38,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondilshan&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayondilshan&theme=dark&cache_seconds=1800">
+
 </p>
 
 
