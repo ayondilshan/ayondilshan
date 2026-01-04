@@ -32,7 +32,7 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ayondilshan&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" /><br />
+        <br />
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayondilshan&theme=dark&hide_border=false" />
       </td>
       <td width="50%" align="center">
