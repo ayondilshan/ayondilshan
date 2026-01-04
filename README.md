@@ -29,23 +29,18 @@
 ---
 <h3 align="center">My Statistics</h3>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayondilshan&show_icons=true&theme=dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayondilshan&theme=dark&show_icons=true&count_private=true">
-<br>
-<img src="https://streak-stats.demolab.com?user=ayondilshan&theme=dark">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayondilshan&theme=dark" />
+</p>
 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondilshan&layout=compact&theme=dark" />
+</p>
 
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondilshan&theme=dark&layout=compact">
-
-</td>
-</tr>
-</table>
 
 
 
