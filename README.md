@@ -61,7 +61,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.youtube.com/@Lifeof_Dilshan" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ayondilshan" height="50" width="50" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="50" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/in/ayondilshanlk/" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ayondilshan" height="50" width="50" />
