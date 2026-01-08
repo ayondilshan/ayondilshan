@@ -60,9 +60,11 @@
 
 
 
-<img src="https://raw.githubusercontent.com/ayondilshan/ayondilshan/output/snake.svg" alt="Snake animation" />
 
-###
 
  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayonexpertr) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayonexpertr)
+
+  <img src="https://raw.githubusercontent.com/ayondilshan/ayondilshan/output/snake.svg" alt="Snake animation" />
+
+###
