@@ -60,11 +60,12 @@
 
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ayondilshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayonexpertr)
 
-  <img src="https://raw.githubusercontent.com/ayondilshan/ayondilshan/output/snake.svg" alt="Snake animation" />
-
-###
+ 
