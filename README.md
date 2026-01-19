@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-- 🧑‍🎓 I’m an Learn at **Imbs Green Campus**
+- 🧑‍🎓 I’m A student of **Imbs Green Campus**
 
 - 🔍 Problem-solving and optimization are at the core of my development approach.  
 
